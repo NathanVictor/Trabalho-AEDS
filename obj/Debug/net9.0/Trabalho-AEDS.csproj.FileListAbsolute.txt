@@ -1,0 +1,15 @@
+C:\Users\Nathan.DESKTOP-71OEECP\Trabalho-AEDS\obj\Debug\net9.0\Trabalho-AEDS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nathan.DESKTOP-71OEECP\Trabalho-AEDS\obj\Debug\net9.0\Trabalho-AEDS.AssemblyInfoInputs.cache
+C:\Users\Nathan.DESKTOP-71OEECP\Trabalho-AEDS\obj\Debug\net9.0\Trabalho-AEDS.AssemblyInfo.cs
+C:\Users\Nathan.DESKTOP-71OEECP\Trabalho-AEDS\obj\Debug\net9.0\Trabalho-AEDS.csproj.CoreCompileInputs.cache
+C:\Users\Nathan.DESKTOP-71OEECP\Trabalho-AEDS\obj\Debug\net9.0\Trabalho-AEDS.sourcelink.json
+C:\Users\Nathan.DESKTOP-71OEECP\Trabalho-AEDS\bin\Debug\net9.0\Trabalho-AEDS.exe
+C:\Users\Nathan.DESKTOP-71OEECP\Trabalho-AEDS\bin\Debug\net9.0\Trabalho-AEDS.deps.json
+C:\Users\Nathan.DESKTOP-71OEECP\Trabalho-AEDS\bin\Debug\net9.0\Trabalho-AEDS.runtimeconfig.json
+C:\Users\Nathan.DESKTOP-71OEECP\Trabalho-AEDS\bin\Debug\net9.0\Trabalho-AEDS.dll
+C:\Users\Nathan.DESKTOP-71OEECP\Trabalho-AEDS\bin\Debug\net9.0\Trabalho-AEDS.pdb
+C:\Users\Nathan.DESKTOP-71OEECP\Trabalho-AEDS\obj\Debug\net9.0\Trabalho-AEDS.dll
+C:\Users\Nathan.DESKTOP-71OEECP\Trabalho-AEDS\obj\Debug\net9.0\refint\Trabalho-AEDS.dll
+C:\Users\Nathan.DESKTOP-71OEECP\Trabalho-AEDS\obj\Debug\net9.0\Trabalho-AEDS.pdb
+C:\Users\Nathan.DESKTOP-71OEECP\Trabalho-AEDS\obj\Debug\net9.0\Trabalho-AEDS.genruntimeconfig.cache
+C:\Users\Nathan.DESKTOP-71OEECP\Trabalho-AEDS\obj\Debug\net9.0\ref\Trabalho-AEDS.dll
