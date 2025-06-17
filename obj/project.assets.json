@@ -8,19 +8,19 @@
     "net9.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Nathan.DESKTOP-71OEECP\\.nuget\\packages\\": {}
+    "C:\\Users\\Nathan\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Nathan.DESKTOP-71OEECP\\Trabalho-AEDS\\Trabalho-AEDS.csproj",
+      "projectUniqueName": "C:\\Users\\Nathan\\Trabalho-AEDS\\Trabalho-AEDS.csproj",
       "projectName": "Trabalho-AEDS",
-      "projectPath": "C:\\Users\\Nathan.DESKTOP-71OEECP\\Trabalho-AEDS\\Trabalho-AEDS.csproj",
-      "packagesPath": "C:\\Users\\Nathan.DESKTOP-71OEECP\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Nathan.DESKTOP-71OEECP\\Trabalho-AEDS\\obj\\",
+      "projectPath": "C:\\Users\\Nathan\\Trabalho-AEDS\\Trabalho-AEDS.csproj",
+      "packagesPath": "C:\\Users\\Nathan\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Nathan\\Trabalho-AEDS\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Nathan.DESKTOP-71OEECP\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\Nathan\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net9.0"
@@ -44,7 +44,7 @@
         "auditLevel": "low",
         "auditMode": "direct"
       },
-      "SdkAnalysisLevel": "9.0.200"
+      "SdkAnalysisLevel": "9.0.300"
     },
     "frameworks": {
       "net9.0": {
@@ -65,7 +65,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.204/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.301/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
