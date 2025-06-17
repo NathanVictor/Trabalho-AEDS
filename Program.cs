@@ -3,13 +3,13 @@ using System.Collections.Generic;
 using System.Globalization;
 using System.IO;
 using System.Linq;
+/*
 
 public class Program
 {
-    private static List<Curso> listaDeCursos = new List<Curso>();
-    private static Dictionary<int, Curso> cursos = new Dictionary<int, Curso>();
-    private static List<Candidato> candidatos = new List<Candidato>();
-
+    private static List <Curso> listaDeCursos = new List<Curso>();
+    private static Dictionary <int, Curso> cursos = new Dictionary<int, Curso>();
+    private static List <Candidato> candidatos = new List<Candidato>();
 
     public static void Main()
     {
@@ -22,6 +22,7 @@ public class Program
             Console.WriteLine("2. Processar Dados dos Candidatos");
             Console.WriteLine("3. Exibir Resultados por Curso");
             Console.WriteLine("4. Gerar Arquivo de Saída (saida.txt)");
+            
             Console.WriteLine("5. Sair");
 
             Console.Write("Digite a sua opção: ");
@@ -66,12 +67,12 @@ public class Program
     }
 
 
-    public class Curso
+   public class Curso
     {
         public int Codigo { get; set; }
         public string Nome { get; set; }
         public int Vagas { get; set; }
-        public List<Candidato> Selecionados { get; set; }
+        public List <Candidato> Selecionados { get; set; }
         public FilaFlexivel FilaDeEspera { get; set; }
 
         public Curso(int codigo, string nome, int vagas)
@@ -79,7 +80,7 @@ public class Program
             Codigo = codigo;
             Nome = nome;
             Vagas = vagas;
-            Selecionados = new List<Candidato>();
+            Selecionados = new List <Candidato>();
             FilaDeEspera = new FilaFlexivel();
         }
     }
@@ -113,9 +114,10 @@ public class Program
             ultimo = ultimo.Proximo;
         }
 
-        public List<Candidato> ParaLista()
+        public List <Candidato> ParaLista()
         {
             var lista = new List<Candidato>();
+
             for (Celula i = primeiro.Proximo; i != null; i = i.Proximo)
             {
                 lista.Add(i.Elemento);
@@ -124,7 +126,7 @@ public class Program
         }
     }
 
-    public static class Ordenacao
+    public class Ordenacao
     {
         public static void MergeSort(List<Candidato> lista)
         {
@@ -132,8 +134,8 @@ public class Program
                 return;
 
             int meio = lista.Count / 2;
-            List<Candidato> esquerda = new List<Candidato>();
-            List<Candidato> direita = new List<Candidato>();
+            List <Candidato> esquerda = new List <Candidato>();
+            List <Candidato> direita = new List <Candidato>();
 
             for (int i = 0; i < meio; i++)
                 esquerda.Add(lista[i]);
@@ -178,3 +180,5 @@ public class Candidato
 {
 
 }
+
+*/
