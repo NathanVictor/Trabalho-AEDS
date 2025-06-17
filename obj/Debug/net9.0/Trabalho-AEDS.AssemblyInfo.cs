@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Trabalho-AEDS")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fe81b2df0490558a58c951aed7d86ede8f6d684c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+464bfe1874aacc4f31598d8782818feecdd0762a")]
 [assembly: System.Reflection.AssemblyProductAttribute("Trabalho-AEDS")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Trabalho-AEDS")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
